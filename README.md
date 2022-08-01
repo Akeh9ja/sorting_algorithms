@@ -37,7 +37,6 @@ Files | Description
 [deck.h](./deck.h) | Header file for the card deck sorting function
 
 
-## Authors
-Laura Roudge
-Ethan Mayer
-Cohort 8 - Holberton School
+## Author
+Akeh Emmanuel
+Cohort 5 - African Leadership School
